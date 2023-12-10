@@ -1,7 +1,7 @@
 android_app_import {
-        name: "MotoCalender",
+        name: "MotoCalendar",
         owner: "motorola",
-        apk: "MotoCalender.apk",
+        apk: "MotoCalendar.apk",
         overrides: ["Etar"],
         presigned: true,
         dex_preopt: {
